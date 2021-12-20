@@ -1,0 +1,11 @@
+a b
+b c
+c d
+d e
+e f
+c g
+g h green red
+h i - green
+i f green
+c z
+z f red
