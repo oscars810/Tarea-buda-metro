@@ -1,6 +1,10 @@
-a b - green
-b d
-b c
-d c
-d e
-c e green
+a b - red
+b c - red
+c d
+a e - green
+e d
+d f
+f g green
+g h
+f i
+i h
