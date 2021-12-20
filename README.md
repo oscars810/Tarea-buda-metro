@@ -1,5 +1,6 @@
 # Tarea Buda - Metro
 
+Entrega todos el o los caminos mas cortos entre dos estaciones para una red de metro que puede tener distintos colores para evitar ciertas estaciones.
 ## Como ejecutar
 En la carpeta raiz ejecutar: 
     
